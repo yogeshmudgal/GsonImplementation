@@ -1,0 +1,20 @@
+{
+  "CarOwner": {
+    "Age": 32,
+    "firstName": "Yogesh",
+    "lastName": "Mudgal"
+  },
+  "brand": "Maruti",
+  "makeYear": 2012,
+  "model_name": "AStar",
+  "Passenger": [
+    {
+      "age": 30,
+      "name": "Manish"
+    },
+    {
+      "age": 4,
+      "name": "Yakshit"
+    }
+  ]
+}
